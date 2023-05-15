@@ -1,16 +1,11 @@
-# flutter_application_1
+# UTS_Pemrograman_Mobile
 
-A new Flutter project.
+# Nama  : Ery Shandy
+# NIM   : 312010201
+# Kelas : TI.20.A2
 
-## Getting Started
+# SOAL!
+## Setelah belajar tentang pemrograman mobile dengan fluter, Silahkan buat halaman login dengan flutter kemudian kumpulkan ke link UTS di ecampus
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot Halaman Login
+<img width="399" alt="halaman login (2)" src="https://github.com/eryshandy22/UTS_Pemrograman_Mobile/assets/73053784/68afa3b0-0ec4-4694-ac2f-120934ef3410">
